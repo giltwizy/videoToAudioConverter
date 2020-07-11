@@ -11,5 +11,5 @@ To install qrcode module (which will include pillow for generating images) type 
 pip install moviepy
 ```
 
-You are good to go,run the script on your terminal and hooray.You have your Qrcode :smiley:
+You are good to go,run the script on your terminal and hooray.You have your Audio file :smiley:
 
